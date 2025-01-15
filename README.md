@@ -76,7 +76,13 @@ Email injection is a security vulnerability that allows malicious users to send 
 
 Question #1: Log into the administrator account!
 
+After we navigate to the login page, enter some data into the email and password fields.
 
+               interceot is on
+
+ Before clicking submit, make sure Intercept mode is on.
+
+This will allow us to see the data been sent to the server!
 
 
 
